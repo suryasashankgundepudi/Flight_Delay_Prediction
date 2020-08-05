@@ -3,6 +3,6 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 
 ## Notebooks 
 
-[1. Data-Preprocessing, processing the flight data](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Module1-Datapreprocessing1.ipynb)
+[1. Data-Preprocessing, processing the flight data](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Datapreprocessing1_Flight_Data.ipynb)
 
-[2. Data-Preprocessing, processing the weather data](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Module1-Datapreprocessing2.ipynb)
+[2. Data-Preprocessing, processing the weather data](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Datapreprocessing2_Weather_Data.ipynb)
