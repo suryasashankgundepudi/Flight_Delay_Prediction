@@ -16,4 +16,4 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 
 [3. Data-Preprocessing, merging the flight data and weather data](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Datapreprocessing3_Merging_Data.ipynb)
 
-[4. Classificatoin- Predicting if the flight will be delayed or not](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_Delayed_or_Not.ipynb)
+[4. Classification- Predicting if the flight will be delayed or not](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_Delayed_or_Not.ipynb)
