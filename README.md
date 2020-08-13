@@ -25,4 +25,4 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 
 [4. Classification- Predicting if the flight will be delayed or not](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_Delayed_or_Not.ipynb)
 
-[5. Regression- Predicting the number of minutes by which a flight will be delayed(https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Prediction_in_Minutes.ipynb)
+[5. Regression- Predicting the number of minutes by which a flight will be delayed](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Prediction_in_Minutes.ipynb)
