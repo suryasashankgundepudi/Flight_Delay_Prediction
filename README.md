@@ -5,8 +5,15 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 1. Logistic regression 
 2. Random Forest
 3. Extra trees
-4. XGBoost
-5. Decision Trees
+4. Decision Trees
+5. Gradient Descent 
+5. XGBoost
+
+## Regressors used in the Prediction file
+1. Linear Regressor
+2. Extra Trees Regressor
+3. XGBoost Regressor
+4. Random Forest Regressor
 
 ## Notebooks 
 
@@ -17,3 +24,5 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 [3. Data-Preprocessing, merging the flight data and weather data](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Datapreprocessing3_Merging_Data.ipynb)
 
 [4. Classification- Predicting if the flight will be delayed or not](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_Delayed_or_Not.ipynb)
+
+[5. Regression- Predicting the number of minutes by which a flight will be delayed](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_Delayed_or_Not.ipynb)
