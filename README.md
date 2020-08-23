@@ -43,3 +43,5 @@ pip install -r requirements.txt
 [4. Classification- Predicting if the flight will be delayed or not](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_Delayed_or_Not.ipynb)
 
 [5. Regression- Predicting the number of minutes by which a flight will be delayed](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Prediction_in_Minutes.ipynb)
+
+[6. Using results from a Classifier for Regression](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_And_Regression_Using_XGBOOST.ipynb)
