@@ -1,6 +1,25 @@
 # Flight_Delay_Prediction
 Flight scheduling is considered one of the recent challenges faced by the industry. This Project is part of a 2 stage predictive machine learning model, that predicts whcih flight will be delayed and which flight will not, and if the flight is classified as delayed then  find the ammount by which the flight is delayed.
 
+### Installation Requirements
+1. Jupyter
+2. pandas
+3. os
+4. glob
+5. json
+6. numpy
+7. matplotlib
+8. seaborn
+9. sklearn
+10. xgboost
+11. imblearn
+12. SciPy
+
+Use the following code to install the required packages
+```python 
+pip install jupyter pandas json os glob numpy matplotlib seaborn scikit-learn sklearn xgboost imblearn imbalanced-learn scipy
+```
+
 ### Classification models and algorithms used:
 1. Logistic regression 
 2. Random Forest
