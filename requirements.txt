@@ -1,0 +1,11 @@
+jupyter
+pandas
+os
+glob
+json
+numpy
+matplotlib
+seaborn
+sklearn
+xgboost
+imblearn
