@@ -11,7 +11,7 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 7. xgboost
 8. imblearn
 9. SciPy
-10 scikit-learn
+10. scikit-learn
 
 Use the following code to install the required packages
 ```python 
