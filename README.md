@@ -2,7 +2,7 @@
 Flight scheduling is considered one of the recent challenges faced by the industry. This Project is part of a 2 stage predictive machine learning model, that predicts whcih flight will be delayed and which flight will not, and if the flight is classified as delayed then  find the ammount by which the flight is delayed.
 
 ### Installation Requirements
-1. Jupyter
+1. jupyter
 2. pandas
 3. os
 4. glob
