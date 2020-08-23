@@ -17,7 +17,7 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 
 Use the following code to install the required packages
 ```python 
-pip install jupyter pandas json os glob numpy matplotlib seaborn scikit-learn sklearn xgboost imblearn imbalanced-learn scipy
+pip install -r requirements.txt
 ```
 
 ### Classification models and algorithms used:
