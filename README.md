@@ -4,16 +4,14 @@ Flight scheduling is considered one of the recent challenges faced by the indust
 ### Installation Requirements
 1. jupyter
 2. pandas
-3. os
-4. glob
-5. json
-6. numpy
-7. matplotlib
-8. seaborn
-9. sklearn
-10. xgboost
-11. imblearn
-12. SciPy
+3. numpy
+4. matplotlib
+5. seaborn
+6. sklearn
+7. xgboost
+8. imblearn
+9. SciPy
+10 scikit-learn
 
 Use the following code to install the required packages
 ```python 
