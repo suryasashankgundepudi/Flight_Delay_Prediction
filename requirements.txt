@@ -1,11 +1,10 @@
 jupyter
 pandas
-os
-glob
-json
 numpy
 matplotlib
 seaborn
 sklearn
 xgboost
 imblearn
+SciPy
+scikit-lear
