@@ -7,4 +7,4 @@ sklearn
 xgboost
 imblearn
 SciPy
-scikit-lear
+scikit-learn
