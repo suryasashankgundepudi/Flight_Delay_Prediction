@@ -13,9 +13,9 @@ Flight scheduling has been a problem since the dawn of air travel  and  is  some
 
 [5. Regression- Predicting the number of minutes by which a flight will be delayed](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Prediction_in_Minutes.ipynb)
 
-[6. Using results from a Classifier for Regression](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_And_Regression_Using_XGBOOST.ipynb)
+[6. Using results from a Classifier for Regression (Pipelining)](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Classification_And_Regression_Using_XGBOOST.ipynb)
 
-[7. Regression for Ranges- Predicting the number of Minutes by which the flight will be delayed for various ranges](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Regression_For_Ranges.ipynb)
+[7. Regression for Ranges- Predicting the number of Minutes by which the flight will be delayed for various ranges (Regression Testing)](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Regression_For_Ranges.ipynb)
 
 ### Installation Requirements
 1. jupyter
