@@ -1,5 +1,5 @@
 # Flight_Delay_Prediction
-Flight scheduling is considered one of the recent challenges faced by the industry. This Project is part of a 2 stage predictive machine learning model, that predicts which flight will be delayed and which flight will not, and if the flight is classified as delayed then  find the amount by which the flight is delayed.
+Flight scheduling has been a problem since the dawn of airtravel  and  is  something  that  airline  companies  wish  to  tackle.  For  anairport to be able to schedule the flights such that they reach on time,they must be able to tell if the flight will arrive on time or not. A flightis  said  to  be  delayed  if  the  flight  either  takes  off  or  arrives  later  thanthe scheduled time. This Project predicts whether if the flight will arrivedelayed or not, after the flight’s departure, and if the flight is classifiedas arriving late, then the arrival delay in minutes is predicted.
 
 ## Notebooks 
 
