@@ -17,6 +17,8 @@ Flight scheduling has been a problem since the dawn of air travel  and  is  some
 
 [7. Regression for Ranges- Predicting the number of Minutes by which the flight will be delayed for various ranges (Regression Testing)](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/Regression_For_Ranges.ipynb)
 
+[8. Project Report](https://github.com/GV-9wj/Flight_Delay_Prediction/blob/master/FLIGHT_DELAY_PREDICTION_REPORT.pdf)
+
 ### Installation Requirements
 1. jupyter
 2. pandas
