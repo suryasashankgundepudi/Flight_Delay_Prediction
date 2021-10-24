@@ -1,7 +1,7 @@
 # Flight_Delay_Prediction
 Flight scheduling has been a problem since the dawn of air travel  and  is  something  that  airline  companies  wish  to  tackle.  For  an airport to be able to schedule the flights such that they reach on time, they must be able to tell if the flight will arrive on time or not. A flightis  said  to  be  delayed  if  the  flight  either  takes  off  or  arrives  later  than the scheduled time. This Project predicts whether if the flight will arrive delayed or not, after the flight’s departure, and if the flight is classifiedas arriving late, then the arrival delay in minutes is predicted.
 
-![](https://ak.picdn.net/shutterstock/videos/15926953/thumb/1.jpg)
+![](https://image.shutterstock.com/image-photo/istanbul-turkey-09-06-2019-260nw-1527195521.jpg)
 
 
 ## Notebooks 
